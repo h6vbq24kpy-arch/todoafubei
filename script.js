@@ -42,7 +42,7 @@ smBtn.addEventListener("click", () => {
 
 //Victoryボタンを押したとき
 compBtn.addEventListener("click", () => {
-  window.location.href = "https://youtu.be/AA3GyOAIBMQ?si=jOFbOHw9BpSH1Xjo";
+  window.location.href = "https://youtube.com/@lalatuune?si=fA8YMge486A3_s7r";
 })
 
 //Defeatボタンを押したとき
